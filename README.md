@@ -5,8 +5,8 @@
 En este repositorio encontrarás tres ejercicios:
 
 1. Curriculum de Lionel Messi
-2. Lista anidada de un curso de programación web
-3. Formulario de inscripción a un sitio web
+2. Lista Anidada sobre el curso de Programacion Web de Nucba
+3. Formulario de inscripción a Nucba
 
 
 ## Ejercicio 1: Curriculum de Lionel Messi
